@@ -18,5 +18,5 @@ if unitdet == 2:
 
 elif unitdet == 1:
   newtemp = ((temp-32)/1.8)
-  print(str(temp)+"\N{DEGREE SIGN}",'in Fahrenheit is equivant to',str(newtemp)+"\N{DEGREE SIGN}",'Celsius.' )
+  print(str(temp)+"\N{DEGREE SIGN}",'in Fahrenheit is equivalent to',str(newtemp)+"\N{DEGREE SIGN}",'Celsius.' )
 
