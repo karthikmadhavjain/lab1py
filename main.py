@@ -1,4 +1,4 @@
-temp = float (input('Enter temperature:'))
+temp = float (input('Enter temperature: '))
 unit = str (input('Enter unit in F/f or C/c:'))
 newtemp = float
 unitdet = 0
